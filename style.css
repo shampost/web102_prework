@@ -21,6 +21,10 @@ body {
 
 .stats-container {
     display: flex;
+    align-items: flex;
+    cursor: pointer;
+    /*removed this part because it did not look similar to the exemplar in the PDFs*/
+    /*box-shadow: 0 0 30px lightblue;*/
 }
 
 .stats-card {
